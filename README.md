@@ -9,7 +9,7 @@
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na FMP (Faculdade Municipal de Palhoça).
 - 🛠️ Atuo na área de **Suporte de TI e Infraestrutura**, com experiência em manutenção de hardware, Linux, redes e automação.
-- 💡 Apaixonado por desenvolvimento de software, modelagem de bancos de dados e projetos com microcontroladores (IoT / ESP32).
+- 💡 Gosto bastante de **hardware e computação**, juntamente com bastante **programação**.
 - 🎯 Focado em aprimorar minhas habilidades em **C, Java e Python**.
 
 ---
